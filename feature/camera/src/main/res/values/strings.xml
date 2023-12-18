@@ -1,0 +1,15 @@
+<resources>
+    <string name="loading">Loading camera</string>
+    <string name="camera_access_required_message">In order to capture photo, we need you to allow the camera access permission</string>
+    <string name="enable_permission">Enable permission</string>
+
+    <string name="crop_image">Crop</string>
+    <string name="preview">Preview</string>
+    <string name="export">Export</string>
+
+    <string name="content_desc_navigate_up">Navigate Up</string>
+    <string name="content_desc_loading">Loading captured images and preview on pages.</string>
+    <string name="content_desc_toggle_page_margin">Toggle page margin</string>
+    <string name="content_desc_export_document">Export document</string>
+
+</resources>

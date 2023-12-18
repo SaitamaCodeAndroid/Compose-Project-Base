@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_page_first_title">Welcome to Pdf converter</string>
+    <string name="onboarding_page_first_description">Awesome tools allow you to edit and convert Pdfs</string>
+    <string name="onboarding_page_first_action_text">Next</string>
+    <string name="onboarding_page_second_title">Powerful Pdf reader application</string>
+    <string name="onboarding_page_second_description">View Pdf anywhere, anytime</string>
+    <string name="onboarding_page_second_action_text">Next</string>
+    <string name="onboarding_page_third_title">Pdf convert, Image to Pdf</string>
+    <string name="onboarding_page_third_description">Convert all types of image to Pdf such as notes, receipts, invoices, forms, business cards, certs…</string>
+    <string name="onboarding_page_third_action_text">Get started</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Loading files</string>
+    <string name="storage_access_required_message">In order to see available files on device, we need you to allow the storage access permission</string>
+    <string name="enable_permission">Enable permission</string>
+    <string name="no_images_detected">Oops! No Images Detected</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="all">All</string>
+</resources>
